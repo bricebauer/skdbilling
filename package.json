@@ -1,5 +1,6 @@
 {
   "name": "enterprise_reporting_v3_ap_is__preview",
+  "version": "v3",
   "description": "The_Reporting_APIs_enable_Enterprise_Azure_customers_to_programmatically_pull_consumption_and_billing_data_into_preferred_data_analysis_tools__Generate_API_Key_on_Enterprise_portal_and_follow_the_tutorial_under_Help___Reporting_APIs__The_first_section_under_this_help_article_explains_how_to_generateretrieve_the_API_key_for_the_specified_enrollment__a_hrefhttpsdocs_microsoft_comen_usazurebillingbilling_enterprise_api_data_linktypeexternalBilling_Enterprise_API_official_documentationa",
   "license": "Unlicense",
   "main": "src/index.js",
